@@ -1,8 +1,8 @@
-trojan://YwuvGJk36B@104.20.6.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20701044
-trojan://YwuvGJk36B@104.20.6.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20566744
-trojan://biOrJGlcfX@104.20.6.134:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20479590
-trojan://telegram-id-directvpn@35.180.4.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20650787
-trojan://telegram-id-privatevpns@35.180.4.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20205531
-trojan://telegram-id-directvpn@13.38.252.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20140938
-trojan://telegram-id-privatevpns@13.38.252.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20244880
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20350439
+trojan://YwuvGJk36B@104.20.6.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20929688
+trojan://YwuvGJk36B@104.20.5.134:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20633610
+trojan://biOrJGlcfX@104.20.5.134:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20379193
+trojan://telegram-id-directvpn@35.180.4.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20421768
+trojan://telegram-id-privatevpns@35.180.4.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20692230
+trojan://telegram-id-directvpn@13.38.252.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20786532
+trojan://telegram-id-privatevpns@13.38.252.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20ShatakVPN%20174770
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20ShatakVPN%20132478
