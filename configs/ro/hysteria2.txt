@@ -1,8 +1,6 @@
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20143791
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20884524
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20791517
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20422893
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20506372
-hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=masir_sefid#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214085
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20926058
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20465823
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20537681
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20871696
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20162458
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20171483
+hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20332666
+hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=masir_sefid#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20770614

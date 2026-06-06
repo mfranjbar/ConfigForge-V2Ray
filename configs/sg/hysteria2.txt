@@ -1,8 +1,6 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20271239
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20933113
-hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20271613
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273055
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20830379
-hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=masir_sefid#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900002
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20871266
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20338546
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20192824
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20420696
+hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20436957
+hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=masir_sefid#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542767
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433/?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20255950
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20225817
