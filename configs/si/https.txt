@@ -1,13 +1,1 @@
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20103004
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443981
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20279171
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20290908
-https://223.5.5.5:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20213153
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20292894
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20698857
-https://223.5.5.5:443/dns-query&host=d39333476.pages.dev&fp=chrome&sni=d39333476.pages.dev&path=/blogs&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20945667
-https://223.5.5.5:443/dns-query&host=d39333476.pages.dev&fp=chrome&sni=d39333476.pages.dev&path=/collect/uploads&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20999018
-https://223.5.5.5:443/dns-query&host=d39333476.pages.dev&fp=chrome&sni=d39333476.pages.dev&path=/docs/pay&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20129855
-https://223.6.6.6:443/dns-query&host=d39333476.pages.dev&fp=chrome&sni=d39333476.pages.dev&path=/faq&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20209319
-https://223.5.5.5:443/dns-query&host=d39333476.pages.dev&fp=chrome&sni=d39333476.pages.dev&path=/buy/lang&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20690086
-https://223.6.6.6:443/dns-query&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20776905
+https://140.82.116.3:443/4n0nymou3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20849361
